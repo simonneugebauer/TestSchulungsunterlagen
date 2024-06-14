@@ -1,0 +1,1193 @@
+﻿Year Month; € Sales ;Country;SubcategoryName
+01.01.2023;738;Australia;Bike Racks
+01.01.2023;577,17;Australia;Bike Stands
+01.01.2023;1.893,16;Australia;Bottles and Cages
+01.01.2023;896,7;Australia;Caps
+01.01.2023;331,7;Australia;Cleaners
+01.01.2023;1.107,90;Australia;Fenders
+01.01.2023;1.113,70;Australia;Gloves
+01.01.2023;3.442,28;Australia;Helmets
+01.01.2023;757,9;Australia;Hydration Packs
+01.01.2023;2.960,10;Australia;Jerseys
+01.01.2023;128.583,07;Australia;Mountain Bikes
+01.01.2023;193.381,25;Australia;Road Bikes
+01.01.2023;1.092,00;Australia;Shorts
+01.01.2023;203,4;Australia;Socks
+01.01.2023;6.601,36;Australia;Tires and Tubes
+01.01.2023;79.293,88;Australia;Touring Bikes
+01.01.2023;875,56;Australia;Vests
+01.01.2023;672;Canada;Bike Racks
+01.01.2023;581,94;Canada;Bike Stands
+01.01.2023;1.127,46;Canada;Bottles and Cages
+01.01.2023;395,2;Canada;Caps
+01.01.2023;227,05;Canada;Cleaners
+01.01.2023;1.708,68;Canada;Fenders
+01.01.2023;1.029,51;Canada;Gloves
+01.01.2023;2.560,44;Canada;Helmets
+01.01.2023;320,1;Canada;Hydration Packs
+01.01.2023;2.120,00;Canada;Jerseys
+01.01.2023;35.284,59;Canada;Mountain Bikes
+01.01.2023;15.071,76;Canada;Road Bikes
+01.01.2023;1.197,00;Canada;Shorts
+01.01.2023;234,9;Canada;Socks
+01.01.2023;5.298,93;Canada;Tires and Tubes
+01.01.2023;37.853,64;Canada;Touring Bikes
+01.01.2023;640,64;Canada;Vests
+01.01.2023;147,6;France;Bike Racks
+01.01.2023;195,57;France;Bike Stands
+01.01.2023;763,84;France;Bottles and Cages
+01.01.2023;264,18;France;Caps
+01.01.2023;90,4;France;Cleaners
+01.01.2023;339,9;France;Fenders
+01.01.2023;455,94;France;Gloves
+01.01.2023;1.294,30;France;Helmets
+01.01.2023;178,2;France;Hydration Packs
+01.01.2023;1.289,97;France;Jerseys
+01.01.2023;45.034,50;France;Mountain Bikes
+01.01.2023;25.014,60;France;Road Bikes
+01.01.2023;302,4;France;Shorts
+01.01.2023;17,1;France;Socks
+01.01.2023;3.609,78;France;Tires and Tubes
+01.01.2023;20.232,30;France;Touring Bikes
+01.01.2023;241,3;France;Vests
+01.01.2023;115,2;Germany;Bike Racks
+01.01.2023;302,1;Germany;Bike Stands
+01.01.2023;711,66;Germany;Bottles and Cages
+01.01.2023;377,33;Germany;Caps
+01.01.2023;95,79;Germany;Cleaners
+01.01.2023;582,42;Germany;Fenders
+01.01.2023;379,95;Germany;Gloves
+01.01.2023;1.864,17;Germany;Helmets
+01.01.2023;377,3;Germany;Hydration Packs
+01.01.2023;1.025,20;Germany;Jerseys
+01.01.2023;46.680,80;Germany;Mountain Bikes
+01.01.2023;38.441,04;Germany;Road Bikes
+01.01.2023;18;Germany;Socks
+01.01.2023;3.005,10;Germany;Tires and Tubes
+01.01.2023;34.796,58;Germany;Touring Bikes
+01.01.2023;381;Germany;Vests
+01.01.2023;105,6;United Kingdom;Bike Racks
+01.01.2023;166,95;United Kingdom;Bike Stands
+01.01.2023;925,65;United Kingdom;Bottles and Cages
+01.01.2023;519,92;United Kingdom;Caps
+01.01.2023;72;United Kingdom;Cleaners
+01.01.2023;863,29;United Kingdom;Fenders
+01.01.2023;621,33;United Kingdom;Gloves
+01.01.2023;1.783,82;United Kingdom;Helmets
+01.01.2023;292,6;United Kingdom;Hydration Packs
+01.01.2023;2.325,93;United Kingdom;Jerseys
+01.01.2023;46.653,78;United Kingdom;Mountain Bikes
+01.01.2023;48.469,20;United Kingdom;Road Bikes
+01.01.2023;470,4;United Kingdom;Shorts
+01.01.2023;102,24;United Kingdom;Socks
+01.01.2023;2.639,48;United Kingdom;Tires and Tubes
+01.01.2023;59.400,18;United Kingdom;Touring Bikes
+01.01.2023;180,34;United Kingdom;Vests
+01.01.2023;846;United States;Bike Racks
+01.01.2023;1.402,38;United States;Bike Stands
+01.01.2023;4.935,80;United States;Bottles and Cages
+01.01.2023;1.075,36;United States;Caps
+01.01.2023;782,04;United States;Cleaners
+01.01.2023;6.198,00;United States;Fenders
+01.01.2023;2.277,88;United States;Gloves
+01.01.2023;7.003,41;United States;Helmets
+01.01.2023;1.367,30;United States;Hydration Packs
+01.01.2023;6.778,24;United States;Jerseys
+01.01.2023;163.683,14;United States;Mountain Bikes
+01.01.2023;62.519,34;United States;Road Bikes
+01.01.2023;2.356,20;United States;Shorts
+01.01.2023;451,44;United States;Socks
+01.01.2023;9.502,92;United States;Tires and Tubes
+01.01.2023;105.143,64;United States;Touring Bikes
+01.01.2023;1.134,00;United States;Vests
+01.02.2023;451,2;Australia;Bike Racks
+01.02.2023;849,06;Australia;Bike Stands
+01.02.2023;1.808,80;Australia;Bottles and Cages
+01.02.2023;818,8;Australia;Caps
+01.02.2023;248,92;Australia;Cleaners
+01.02.2023;1.028,56;Australia;Fenders
+01.02.2023;1.607,55;Australia;Gloves
+01.02.2023;3.318,48;Australia;Helmets
+01.02.2023;862,4;Australia;Hydration Packs
+01.02.2023;2.543,01;Australia;Jerseys
+01.02.2023;98.571,33;Australia;Mountain Bikes
+01.02.2023;143.841,62;Australia;Road Bikes
+01.02.2023;325,5;Australia;Shorts
+01.02.2023;229,32;Australia;Socks
+01.02.2023;6.814,00;Australia;Tires and Tubes
+01.02.2023;94.353,00;Australia;Touring Bikes
+01.02.2023;513,08;Australia;Vests
+01.02.2023;374,4;Canada;Bike Racks
+01.02.2023;166,95;Canada;Bike Stands
+01.02.2023;1.190,35;Canada;Bottles and Cages
+01.02.2023;314,88;Canada;Caps
+01.02.2023;147,98;Canada;Cleaners
+01.02.2023;1.343,45;Canada;Fenders
+01.02.2023;945,7;Canada;Gloves
+01.02.2023;1.452,88;Canada;Helmets
+01.02.2023;635,25;Canada;Hydration Packs
+01.02.2023;2.193,45;Canada;Jerseys
+01.02.2023;37.548,00;Canada;Mountain Bikes
+01.02.2023;10.210,20;Canada;Road Bikes
+01.02.2023;1.263,50;Canada;Shorts
+01.02.2023;82,62;Canada;Socks
+01.02.2023;3.742,20;Canada;Tires and Tubes
+01.02.2023;21.871,20;Canada;Touring Bikes
+01.02.2023;305,28;Canada;Vests
+01.02.2023;333,9;France;Bike Stands
+01.02.2023;878,22;France;Bottles and Cages
+01.02.2023;323,07;France;Caps
+01.02.2023;101,97;France;Cleaners
+01.02.2023;415,8;France;Fenders
+01.02.2023;299,88;France;Gloves
+01.02.2023;1.885,00;France;Helmets
+01.02.2023;253;France;Hydration Packs
+01.02.2023;1.335,74;France;Jerseys
+01.02.2023;57.837,06;France;Mountain Bikes
+01.02.2023;50.769,90;France;Road Bikes
+01.02.2023;184,8;France;Shorts
+01.02.2023;94,5;France;Socks
+01.02.2023;3.752,48;France;Tires and Tubes
+01.02.2023;26.114,40;France;Touring Bikes
+01.02.2023;215,9;France;Vests
+01.02.2023;441,6;Germany;Bike Racks
+01.02.2023;295,74;Germany;Bike Stands
+01.02.2023;746,36;Germany;Bottles and Cages
+01.02.2023;361,08;Germany;Caps
+01.02.2023;88,74;Germany;Cleaners
+01.02.2023;454,08;Germany;Fenders
+01.02.2023;365,69;Germany;Gloves
+01.02.2023;1.585,65;Germany;Helmets
+01.02.2023;104,5;Germany;Hydration Packs
+01.02.2023;1.206,21;Germany;Jerseys
+01.02.2023;65.178,32;Germany;Mountain Bikes
+01.02.2023;22.527,90;Germany;Road Bikes
+01.02.2023;66,5;Germany;Shorts
+01.02.2023;15,3;Germany;Socks
+01.02.2023;3.010,56;Germany;Tires and Tubes
+01.02.2023;24.658,20;Germany;Touring Bikes
+01.02.2023;57,6;Germany;Vests
+01.02.2023;333,9;United Kingdom;Bike Stands
+01.02.2023;1.019,70;United Kingdom;Bottles and Cages
+01.02.2023;423,3;United Kingdom;Caps
+01.02.2023;88,74;United Kingdom;Cleaners
+01.02.2023;320,32;United Kingdom;Fenders
+01.02.2023;242,05;United Kingdom;Gloves
+01.02.2023;2.367,09;United Kingdom;Helmets
+01.02.2023;226,6;United Kingdom;Hydration Packs
+01.02.2023;987,03;United Kingdom;Jerseys
+01.02.2023;63.911,00;United Kingdom;Mountain Bikes
+01.02.2023;40.156,59;United Kingdom;Road Bikes
+01.02.2023;291,2;United Kingdom;Shorts
+01.02.2023;72,72;United Kingdom;Socks
+01.02.2023;3.641,05;United Kingdom;Tires and Tubes
+01.02.2023;47.490,18;United Kingdom;Touring Bikes
+01.02.2023;251,46;United Kingdom;Vests
+01.02.2023;1.382,40;United States;Bike Racks
+01.02.2023;457,92;United States;Bike Stands
+01.02.2023;3.643,64;United States;Bottles and Cages
+01.02.2023;1.089,00;United States;Caps
+01.02.2023;389,58;United States;Cleaners
+01.02.2023;2.763,84;United States;Fenders
+01.02.2023;1.862,76;United States;Gloves
+01.02.2023;5.929,04;United States;Helmets
+01.02.2023;1.267,20;United States;Hydration Packs
+01.02.2023;3.933,93;United States;Jerseys
+01.02.2023;153.387,95;United States;Mountain Bikes
+01.02.2023;109.897,92;United States;Road Bikes
+01.02.2023;3.307,50;United States;Shorts
+01.02.2023;253,8;United States;Socks
+01.02.2023;10.522,95;United States;Tires and Tubes
+01.02.2023;116.482,08;United States;Touring Bikes
+01.02.2023;1.485,90;United States;Vests
+01.03.2023;854,4;Australia;Bike Racks
+01.03.2023;787,05;Australia;Bike Stands
+01.03.2023;1.667,86;Australia;Bottles and Cages
+01.03.2023;675,18;Australia;Caps
+01.03.2023;150,15;Australia;Cleaners
+01.03.2023;1.061,55;Australia;Fenders
+01.03.2023;1.164,97;Australia;Gloves
+01.03.2023;3.496,80;Australia;Helmets
+01.03.2023;677,6;Australia;Hydration Packs
+01.03.2023;3.909,71;Australia;Jerseys
+01.03.2023;116.953,20;Australia;Mountain Bikes
+01.03.2023;170.800,35;Australia;Road Bikes
+01.03.2023;1.499,40;Australia;Shorts
+01.03.2023;68,85;Australia;Socks
+01.03.2023;6.404,90;Australia;Tires and Tubes
+01.03.2023;69.342,15;Australia;Touring Bikes
+01.03.2023;731,52;Australia;Vests
+01.03.2023;504;Canada;Bike Racks
+01.03.2023;438,84;Canada;Bike Stands
+01.03.2023;1.089,70;Canada;Bottles and Cages
+01.03.2023;341,12;Canada;Caps
+01.03.2023;182,16;Canada;Cleaners
+01.03.2023;1.486,16;Canada;Fenders
+01.03.2023;763,2;Canada;Gloves
+01.03.2023;2.132,16;Canada;Helmets
+01.03.2023;455,4;Canada;Hydration Packs
+01.03.2023;1.968,12;Canada;Jerseys
+01.03.2023;28.243,68;Canada;Mountain Bikes
+01.03.2023;10.949,82;Canada;Road Bikes
+01.03.2023;791,7;Canada;Shorts
+01.03.2023;131,58;Canada;Socks
+01.03.2023;5.769,75;Canada;Tires and Tubes
+01.03.2023;22.841,91;Canada;Touring Bikes
+01.03.2023;792,48;Canada;Vests
+01.03.2023;489,6;France;Bike Racks
+01.03.2023;157,41;France;Bike Stands
+01.03.2023;889,81;France;Bottles and Cages
+01.03.2023;444,96;France;Caps
+01.03.2023;7,92;France;Cleaners
+01.03.2023;409,64;France;Fenders
+01.03.2023;74,55;France;Gloves
+01.03.2023;2.028,95;France;Helmets
+01.03.2023;342,65;France;Hydration Packs
+01.03.2023;848,64;France;Jerseys
+01.03.2023;40.830,30;France;Mountain Bikes
+01.03.2023;43.259,16;France;Road Bikes
+01.03.2023;61,6;France;Shorts
+01.03.2023;75,6;France;Socks
+01.03.2023;4.162,08;France;Tires and Tubes
+01.03.2023;23.119,36;France;Touring Bikes
+01.03.2023;395,16;France;Vests
+01.03.2023;1.043,77;Germany;Bottles and Cages
+01.03.2023;546,72;Germany;Caps
+01.03.2023;116,55;Germany;Cleaners
+01.03.2023;525,32;Germany;Fenders
+01.03.2023;186,56;Germany;Gloves
+01.03.2023;1.933,47;Germany;Helmets
+01.03.2023;145,2;Germany;Hydration Packs
+01.03.2023;1.435,20;Germany;Jerseys
+01.03.2023;73.446,00;Germany;Mountain Bikes
+01.03.2023;32.604,12;Germany;Road Bikes
+01.03.2023;59,5;Germany;Shorts
+01.03.2023;41,4;Germany;Socks
+01.03.2023;2.214,90;Germany;Tires and Tubes
+01.03.2023;39.135,46;Germany;Touring Bikes
+01.03.2023;324,36;Germany;Vests
+01.03.2023;247,2;United Kingdom;Bike Racks
+01.03.2023;283,02;United Kingdom;Bike Stands
+01.03.2023;1.251,60;United Kingdom;Bottles and Cages
+01.03.2023;520,2;United Kingdom;Caps
+01.03.2023;122,85;United Kingdom;Cleaners
+01.03.2023;475,64;United Kingdom;Fenders
+01.03.2023;558,26;United Kingdom;Gloves
+01.03.2023;2.533,65;United Kingdom;Helmets
+01.03.2023;297;United Kingdom;Hydration Packs
+01.03.2023;1.885,52;United Kingdom;Jerseys
+01.03.2023;68.580,48;United Kingdom;Mountain Bikes
+01.03.2023;43.073,10;United Kingdom;Road Bikes
+01.03.2023;195,3;United Kingdom;Shorts
+01.03.2023;77,4;United Kingdom;Socks
+01.03.2023;4.122,69;United Kingdom;Tires and Tubes
+01.03.2023;63.003,78;United Kingdom;Touring Bikes
+01.03.2023;241,3;United Kingdom;Vests
+01.03.2023;1.224,00;United States;Bike Racks
+01.03.2023;858,6;United States;Bike Stands
+01.03.2023;3.723,02;United States;Bottles and Cages
+01.03.2023;844,8;United States;Caps
+01.03.2023;289,92;United States;Cleaners
+01.03.2023;3.460,86;United States;Fenders
+01.03.2023;2.092,64;United States;Gloves
+01.03.2023;6.566,25;United States;Helmets
+01.03.2023;1.776,50;United States;Hydration Packs
+01.03.2023;4.366,18;United States;Jerseys
+01.03.2023;169.053,43;United States;Mountain Bikes
+01.03.2023;103.884,00;United States;Road Bikes
+01.03.2023;3.388,70;United States;Shorts
+01.03.2023;384,75;United States;Socks
+01.03.2023;11.423,69;United States;Tires and Tubes
+01.03.2023;132.285,60;United States;Touring Bikes
+01.03.2023;835,66;United States;Vests
+01.04.2023;408;Australia;Bike Racks
+01.04.2023;636;Australia;Bike Stands
+01.04.2023;2.261,95;Australia;Bottles and Cages
+01.04.2023;384,48;Australia;Caps
+01.04.2023;298,98;Australia;Cleaners
+01.04.2023;1.240,33;Australia;Fenders
+01.04.2023;1.525,50;Australia;Gloves
+01.04.2023;4.543,35;Australia;Helmets
+01.04.2023;742,5;Australia;Hydration Packs
+01.04.2023;2.981,88;Australia;Jerseys
+01.04.2023;118.848,72;Australia;Mountain Bikes
+01.04.2023;170.878,24;Australia;Road Bikes
+01.04.2023;1.060,50;Australia;Shorts
+01.04.2023;126;Australia;Socks
+01.04.2023;6.136,96;Australia;Tires and Tubes
+01.04.2023;109.093,53;Australia;Touring Bikes
+01.04.2023;792,48;Australia;Vests
+01.04.2023;422,4;Canada;Bike Racks
+01.04.2023;787,05;Canada;Bike Stands
+01.04.2023;1.311,72;Canada;Bottles and Cages
+01.04.2023;399;Canada;Caps
+01.04.2023;121,55;Canada;Cleaners
+01.04.2023;947,76;Canada;Fenders
+01.04.2023;686,14;Canada;Gloves
+01.04.2023;2.223,36;Canada;Helmets
+01.04.2023;283,8;Canada;Hydration Packs
+01.04.2023;1.448,08;Canada;Jerseys
+01.04.2023;32.952,01;Canada;Mountain Bikes
+01.04.2023;17.039,38;Canada;Road Bikes
+01.04.2023;1.432,90;Canada;Shorts
+01.04.2023;90,9;Canada;Socks
+01.04.2023;5.504,36;Canada;Tires and Tubes
+01.04.2023;31.908,36;Canada;Touring Bikes
+01.04.2023;622,3;Canada;Vests
+01.04.2023;122,4;France;Bike Racks
+01.04.2023;566,04;France;Bike Stands
+01.04.2023;1.096,50;France;Bottles and Cages
+01.04.2023;402,8;France;Caps
+01.04.2023;89,61;France;Cleaners
+01.04.2023;444,4;France;Fenders
+01.04.2023;456,87;France;Gloves
+01.04.2023;2.173,52;France;Helmets
+01.04.2023;55,55;France;Hydration Packs
+01.04.2023;1.796,45;France;Jerseys
+01.04.2023;56.658,24;France;Mountain Bikes
+01.04.2023;42.972,76;France;Road Bikes
+01.04.2023;133;France;Shorts
+01.04.2023;41,4;France;Socks
+01.04.2023;4.079,92;France;Tires and Tubes
+01.04.2023;37.392,95;France;Touring Bikes
+01.04.2023;167,2;France;Vests
+01.04.2023;715,5;Germany;Bike Stands
+01.04.2023;924,15;Germany;Bottles and Cages
+01.04.2023;405,72;Germany;Caps
+01.04.2023;106,56;Germany;Cleaners
+01.04.2023;475,2;Germany;Fenders
+01.04.2023;151,8;Germany;Gloves
+01.04.2023;1.918,62;Germany;Helmets
+01.04.2023;101,2;Germany;Hydration Packs
+01.04.2023;1.418,55;Germany;Jerseys
+01.04.2023;58.546,56;Germany;Mountain Bikes
+01.04.2023;52.270,65;Germany;Road Bikes
+01.04.2023;81,9;Germany;Socks
+01.04.2023;3.626,63;Germany;Tires and Tubes
+01.04.2023;44.704,39;Germany;Touring Bikes
+01.04.2023;318;Germany;Vests
+01.04.2023;576;United Kingdom;Bike Racks
+01.04.2023;308,46;United Kingdom;Bike Stands
+01.04.2023;1.086,40;United Kingdom;Bottles and Cages
+01.04.2023;488,07;United Kingdom;Caps
+01.04.2023;97,68;United Kingdom;Cleaners
+01.04.2023;480,48;United Kingdom;Fenders
+01.04.2023;400;United Kingdom;Gloves
+01.04.2023;2.257,65;United Kingdom;Helmets
+01.04.2023;378,4;United Kingdom;Hydration Packs
+01.04.2023;1.549,09;United Kingdom;Jerseys
+01.04.2023;61.789,00;United Kingdom;Mountain Bikes
+01.04.2023;52.658,52;United Kingdom;Road Bikes
+01.04.2023;144,2;United Kingdom;Shorts
+01.04.2023;60,48;United Kingdom;Socks
+01.04.2023;3.818,00;United Kingdom;Tires and Tubes
+01.04.2023;31.329,57;United Kingdom;Touring Bikes
+01.04.2023;305,28;United Kingdom;Vests
+01.04.2023;739,2;United States;Bike Racks
+01.04.2023;1.244,97;United States;Bike Stands
+01.04.2023;3.634,04;United States;Bottles and Cages
+01.04.2023;1.091,81;United States;Caps
+01.04.2023;308;United States;Cleaners
+01.04.2023;3.304,79;United States;Fenders
+01.04.2023;2.207,62;United States;Gloves
+01.04.2023;6.883,15;United States;Helmets
+01.04.2023;767,25;United States;Hydration Packs
+01.04.2023;5.366,10;United States;Jerseys
+01.04.2023;172.636,85;United States;Mountain Bikes
+01.04.2023;131.727,42;United States;Road Bikes
+01.04.2023;3.733,53;United States;Shorts
+01.04.2023;417,15;United States;Socks
+01.04.2023;10.810,62;United States;Tires and Tubes
+01.04.2023;122.440,56;United States;Touring Bikes
+01.04.2023;1.493,52;United States;Vests
+01.05.2023;789,6;Australia;Bike Racks
+01.05.2023;915,84;Australia;Bike Stands
+01.05.2023;1.849,42;Australia;Bottles and Cages
+01.05.2023;594,21;Australia;Caps
+01.05.2023;361,27;Australia;Cleaners
+01.05.2023;1.315,75;Australia;Fenders
+01.05.2023;1.175,20;Australia;Gloves
+01.05.2023;4.520,25;Australia;Helmets
+01.05.2023;1.278,75;Australia;Hydration Packs
+01.05.2023;3.523,63;Australia;Jerseys
+01.05.2023;102.092,82;Australia;Mountain Bikes
+01.05.2023;171.237,15;Australia;Road Bikes
+01.05.2023;655,2;Australia;Shorts
+01.05.2023;201,96;Australia;Socks
+01.05.2023;6.696,36;Australia;Tires and Tubes
+01.05.2023;122.760,56;Australia;Touring Bikes
+01.05.2023;924,56;Australia;Vests
+01.05.2023;730,8;Canada;Bike Racks
+01.05.2023;410,22;Canada;Bike Stands
+01.05.2023;1.308,30;Canada;Bottles and Cages
+01.05.2023;345,8;Canada;Caps
+01.05.2023;159,25;Canada;Cleaners
+01.05.2023;1.900,00;Canada;Fenders
+01.05.2023;890,1;Canada;Gloves
+01.05.2023;2.578,38;Canada;Helmets
+01.05.2023;765,6;Canada;Hydration Packs
+01.05.2023;1.722,05;Canada;Jerseys
+01.05.2023;64.358,70;Canada;Mountain Bikes
+01.05.2023;24.962,36;Canada;Road Bikes
+01.05.2023;1.108,80;Canada;Shorts
+01.05.2023;74,52;Canada;Socks
+01.05.2023;4.949,10;Canada;Tires and Tubes
+01.05.2023;18.418,60;Canada;Touring Bikes
+01.05.2023;497,64;Canada;Vests
+01.05.2023;465,6;France;Bike Racks
+01.05.2023;302,1;France;Bike Stands
+01.05.2023;813,28;France;Bottles and Cages
+01.05.2023;312,09;France;Caps
+01.05.2023;21,12;France;Cleaners
+01.05.2023;500,94;France;Fenders
+01.05.2023;558,26;France;Gloves
+01.05.2023;2.718,30;France;Helmets
+01.05.2023;215,6;France;Hydration Packs
+01.05.2023;1.229,95;France;Jerseys
+01.05.2023;49.168,80;France;Mountain Bikes
+01.05.2023;49.604,10;France;Road Bikes
+01.05.2023;260,4;France;Shorts
+01.05.2023;68,85;France;Socks
+01.05.2023;3.087,00;France;Tires and Tubes
+01.05.2023;37.550,18;France;Touring Bikes
+01.05.2023;489,6;Germany;Bike Racks
+01.05.2023;321,18;Germany;Bike Stands
+01.05.2023;1.026,72;Germany;Bottles and Cages
+01.05.2023;504,9;Germany;Caps
+01.05.2023;163,77;Germany;Cleaners
+01.05.2023;630,75;Germany;Fenders
+01.05.2023;663,52;Germany;Gloves
+01.05.2023;2.577,75;Germany;Helmets
+01.05.2023;108,9;Germany;Hydration Packs
+01.05.2023;1.294,93;Germany;Jerseys
+01.05.2023;75.231,00;Germany;Mountain Bikes
+01.05.2023;62.938,45;Germany;Road Bikes
+01.05.2023;98,28;Germany;Socks
+01.05.2023;3.554,46;Germany;Tires and Tubes
+01.05.2023;41.791,00;Germany;Touring Bikes
+01.05.2023;350,52;Germany;Vests
+01.05.2023;356,4;United Kingdom;Bike Racks
+01.05.2023;661,44;United Kingdom;Bike Stands
+01.05.2023;1.247,42;United Kingdom;Bottles and Cages
+01.05.2023;381,22;United Kingdom;Caps
+01.05.2023;91,2;United Kingdom;Cleaners
+01.05.2023;459,36;United Kingdom;Fenders
+01.05.2023;626,05;United Kingdom;Gloves
+01.05.2023;2.533,80;United Kingdom;Helmets
+01.05.2023;313,5;United Kingdom;Hydration Packs
+01.05.2023;1.275,85;United Kingdom;Jerseys
+01.05.2023;50.007,28;United Kingdom;Mountain Bikes
+01.05.2023;62.939,70;United Kingdom;Road Bikes
+01.05.2023;336;United Kingdom;Shorts
+01.05.2023;99,99;United Kingdom;Socks
+01.05.2023;3.967,28;United Kingdom;Tires and Tubes
+01.05.2023;46.259,64;United Kingdom;Touring Bikes
+01.05.2023;223,52;United Kingdom;Vests
+01.05.2023;1.960,80;United States;Bike Racks
+01.05.2023;1.093,92;United States;Bike Stands
+01.05.2023;4.136,08;United States;Bottles and Cages
+01.05.2023;1.123,26;United States;Caps
+01.05.2023;597,84;United States;Cleaners
+01.05.2023;4.431,36;United States;Fenders
+01.05.2023;2.652,32;United States;Gloves
+01.05.2023;8.502,65;United States;Helmets
+01.05.2023;1.321,65;United States;Hydration Packs
+01.05.2023;4.940,32;United States;Jerseys
+01.05.2023;310.031,40;United States;Mountain Bikes
+01.05.2023;149.531,20;United States;Road Bikes
+01.05.2023;3.110,80;United States;Shorts
+01.05.2023;270,27;United States;Socks
+01.05.2023;12.801,60;United States;Tires and Tubes
+01.05.2023;152.925,78;United States;Touring Bikes
+01.05.2023;1.524,00;United States;Vests
+01.06.2023;484,8;Australia;Bike Racks
+01.06.2023;419,76;Australia;Bike Stands
+01.06.2023;1.877,76;Australia;Bottles and Cages
+01.06.2023;571,02;Australia;Caps
+01.06.2023;455,9;Australia;Cleaners
+01.06.2023;1.177,25;Australia;Fenders
+01.06.2023;1.250,10;Australia;Gloves
+01.06.2023;4.065,51;Australia;Helmets
+01.06.2023;946;Australia;Hydration Packs
+01.06.2023;4.561,92;Australia;Jerseys
+01.06.2023;199.138,11;Australia;Mountain Bikes
+01.06.2023;283.829,19;Australia;Road Bikes
+01.06.2023;856,8;Australia;Shorts
+01.06.2023;136,35;Australia;Socks
+01.06.2023;7.969,52;Australia;Tires and Tubes
+01.06.2023;129.521,60;Australia;Touring Bikes
+01.06.2023;531,96;Australia;Vests
+01.06.2023;624;Canada;Bike Racks
+01.06.2023;429,3;Canada;Bike Stands
+01.06.2023;1.248,72;Canada;Bottles and Cages
+01.06.2023;503,36;Canada;Caps
+01.06.2023;207,9;Canada;Cleaners
+01.06.2023;945;Canada;Fenders
+01.06.2023;969,22;Canada;Gloves
+01.06.2023;2.118,60;Canada;Helmets
+01.06.2023;388,85;Canada;Hydration Packs
+01.06.2023;1.987,04;Canada;Jerseys
+01.06.2023;31.497,25;Canada;Mountain Bikes
+01.06.2023;27.588,88;Canada;Road Bikes
+01.06.2023;1.565,20;Canada;Shorts
+01.06.2023;122,85;Canada;Socks
+01.06.2023;3.975,79;Canada;Tires and Tubes
+01.06.2023;39.625,89;Canada;Touring Bikes
+01.06.2023;635;Canada;Vests
+01.06.2023;331,2;France;Bike Racks
+01.06.2023;1.164,84;France;Bottles and Cages
+01.06.2023;445,2;France;Caps
+01.06.2023;171,9;France;Cleaners
+01.06.2023;421,08;France;Fenders
+01.06.2023;409,77;France;Gloves
+01.06.2023;2.284,54;France;Helmets
+01.06.2023;143,55;France;Hydration Packs
+01.06.2023;1.655,39;France;Jerseys
+01.06.2023;114.196,84;France;Mountain Bikes
+01.06.2023;91.451,95;France;Road Bikes
+01.06.2023;120,4;France;Shorts
+01.06.2023;34,56;France;Socks
+01.06.2023;3.574,06;France;Tires and Tubes
+01.06.2023;31.832,50;France;Touring Bikes
+01.06.2023;129,54;France;Vests
+01.06.2023;374,4;Germany;Bike Racks
+01.06.2023;1.164,24;Germany;Bottles and Cages
+01.06.2023;544;Germany;Caps
+01.06.2023;15,52;Germany;Cleaners
+01.06.2023;981,15;Germany;Fenders
+01.06.2023;303,6;Germany;Gloves
+01.06.2023;2.673,00;Germany;Helmets
+01.06.2023;202,4;Germany;Hydration Packs
+01.06.2023;1.232,10;Germany;Jerseys
+01.06.2023;119.740,95;Germany;Mountain Bikes
+01.06.2023;87.283,29;Germany;Road Bikes
+01.06.2023;141,4;Germany;Shorts
+01.06.2023;66,24;Germany;Socks
+01.06.2023;3.118,55;Germany;Tires and Tubes
+01.06.2023;41.418,63;Germany;Touring Bikes
+01.06.2023;111,76;Germany;Vests
+01.06.2023;408;United Kingdom;Bike Racks
+01.06.2023;305,28;United Kingdom;Bike Stands
+01.06.2023;1.379,50;United Kingdom;Bottles and Cages
+01.06.2023;548,97;United Kingdom;Caps
+01.06.2023;155,53;United Kingdom;Cleaners
+01.06.2023;694,71;United Kingdom;Fenders
+01.06.2023;954,72;United Kingdom;Gloves
+01.06.2023;2.642,82;United Kingdom;Helmets
+01.06.2023;495;United Kingdom;Hydration Packs
+01.06.2023;1.942,50;United Kingdom;Jerseys
+01.06.2023;119.085,85;United Kingdom;Mountain Bikes
+01.06.2023;89.316,15;United Kingdom;Road Bikes
+01.06.2023;240,8;United Kingdom;Shorts
+01.06.2023;133,65;United Kingdom;Socks
+01.06.2023;4.118,14;United Kingdom;Tires and Tubes
+01.06.2023;52.074,25;United Kingdom;Touring Bikes
+01.06.2023;193,8;United Kingdom;Vests
+01.06.2023;1.396,80;United States;Bike Racks
+01.06.2023;699,6;United States;Bike Stands
+01.06.2023;3.862,95;United States;Bottles and Cages
+01.06.2023;1.195,20;United States;Caps
+01.06.2023;400,5;United States;Cleaners
+01.06.2023;4.330,00;United States;Fenders
+01.06.2023;2.615,90;United States;Gloves
+01.06.2023;6.359,34;United States;Helmets
+01.06.2023;1.534,50;United States;Hydration Packs
+01.06.2023;6.189,68;United States;Jerseys
+01.06.2023;302.409,39;United States;Mountain Bikes
+01.06.2023;201.971,88;United States;Road Bikes
+01.06.2023;3.967,95;United States;Shorts
+01.06.2023;490,35;United States;Socks
+01.06.2023;12.495,96;United States;Tires and Tubes
+01.06.2023;143.768,70;United States;Touring Bikes
+01.06.2023;1.257,30;United States;Vests
+01.07.2023;313,2;Australia;Bike Racks
+01.07.2023;139,92;Australia;Bike Stands
+01.07.2023;988;Australia;Bottles and Cages
+01.07.2023;159,08;Australia;Caps
+01.07.2023;85,5;Australia;Cleaners
+01.07.2023;715,17;Australia;Fenders
+01.07.2023;218,36;Australia;Gloves
+01.07.2023;921,33;Australia;Helmets
+01.07.2023;247,5;Australia;Hydration Packs
+01.07.2023;683,4;Australia;Jerseys
+01.07.2023;118.554,45;Australia;Mountain Bikes
+01.07.2023;81.652,50;Australia;Road Bikes
+01.07.2023;46,35;Australia;Socks
+01.07.2023;1.219,29;Australia;Tires and Tubes
+01.07.2023;23.033,00;Australia;Touring Bikes
+01.07.2023;218,44;Australia;Vests
+01.07.2023;100,8;Canada;Bottles and Cages
+01.07.2023;38,27;Canada;Caps
+01.07.2023;15,04;Canada;Cleaners
+01.07.2023;184,14;Canada;Fenders
+01.07.2023;85,54;Canada;Gloves
+01.07.2023;126,04;Canada;Helmets
+01.07.2023;48,95;Canada;Hydration Packs
+01.07.2023;195,84;Canada;Jerseys
+01.07.2023;16.010,08;Canada;Mountain Bikes
+01.07.2023;8.302,50;Canada;Road Bikes
+01.07.2023;121,8;Canada;Shorts
+01.07.2023;218;Canada;Tires and Tubes
+01.07.2023;9.456,68;Canada;Touring Bikes
+01.07.2023;133,35;Canada;Vests
+01.07.2023;106,8;France;Bike Racks
+01.07.2023;141,51;France;Bike Stands
+01.07.2023;370,44;France;Bottles and Cages
+01.07.2023;66,3;France;Caps
+01.07.2023;42,72;France;Cleaners
+01.07.2023;81,84;France;Fenders
+01.07.2023;192,92;France;Gloves
+01.07.2023;581;France;Helmets
+01.07.2023;145,2;France;Hydration Packs
+01.07.2023;428,4;France;Jerseys
+01.07.2023;20.433,60;France;Mountain Bikes
+01.07.2023;49.248,15;France;Road Bikes
+01.07.2023;73,5;France;Shorts
+01.07.2023;439,66;France;Tires and Tubes
+01.07.2023;12.358,36;France;Touring Bikes
+01.07.2023;123,6;Germany;Bike Racks
+01.07.2023;519,18;Germany;Bottles and Cages
+01.07.2023;91,52;Germany;Caps
+01.07.2023;160,16;Germany;Fenders
+01.07.2023;108,56;Germany;Gloves
+01.07.2023;712,5;Germany;Helmets
+01.07.2023;94,6;Germany;Hydration Packs
+01.07.2023;681,3;Germany;Jerseys
+01.07.2023;29.137,18;Germany;Mountain Bikes
+01.07.2023;39.517,44;Germany;Road Bikes
+01.07.2023;17,82;Germany;Socks
+01.07.2023;553,58;Germany;Tires and Tubes
+01.07.2023;23.348,00;Germany;Touring Bikes
+01.07.2023;186,2;Germany;Vests
+01.07.2023;322,71;United Kingdom;Bottles and Cages
+01.07.2023;182,4;United Kingdom;Caps
+01.07.2023;82,65;United Kingdom;Cleaners
+01.07.2023;88;United Kingdom;Fenders
+01.07.2023;46,06;United Kingdom;Gloves
+01.07.2023;816,96;United Kingdom;Helmets
+01.07.2023;57,2;United Kingdom;Hydration Packs
+01.07.2023;651,48;United Kingdom;Jerseys
+01.07.2023;26.178,30;United Kingdom;Mountain Bikes
+01.07.2023;67.798,17;United Kingdom;Road Bikes
+01.07.2023;18,54;United Kingdom;Socks
+01.07.2023;1.228,16;United Kingdom;Tires and Tubes
+01.07.2023;17.641,92;United Kingdom;Touring Bikes
+01.07.2023;60,16;United Kingdom;Vests
+01.07.2023;334,8;United States;Bike Racks
+01.07.2023;283,02;United States;Bike Stands
+01.07.2023;975,27;United States;Bottles and Cages
+01.07.2023;288;United States;Caps
+01.07.2023;61,92;United States;Cleaners
+01.07.2023;996,01;United States;Fenders
+01.07.2023;266,77;United States;Gloves
+01.07.2023;1.239,42;United States;Helmets
+01.07.2023;369,6;United States;Hydration Packs
+01.07.2023;1.018,77;United States;Jerseys
+01.07.2023;116.452,00;United States;Mountain Bikes
+01.07.2023;57.395,21;United States;Road Bikes
+01.07.2023;142,8;United States;Shorts
+01.07.2023;16,56;United States;Socks
+01.07.2023;1.690,05;United States;Tires and Tubes
+01.07.2023;44.792,66;United States;Touring Bikes
+01.07.2023;311,64;United States;Vests
+01.08.2023;906,3;Australia;Bike Stands
+01.08.2023;1.508,00;Australia;Bottles and Cages
+01.08.2023;523,2;Australia;Caps
+01.08.2023;226,06;Australia;Cleaners
+01.08.2023;652,5;Australia;Fenders
+01.08.2023;684,82;Australia;Gloves
+01.08.2023;2.427,30;Australia;Helmets
+01.08.2023;453,2;Australia;Hydration Packs
+01.08.2023;2.442,90;Australia;Jerseys
+01.08.2023;21.738,23;Australia;Mountain Bikes
+01.08.2023;102.018,98;Australia;Road Bikes
+01.08.2023;658;Australia;Shorts
+01.08.2023;92,7;Australia;Socks
+01.08.2023;5.293,72;Australia;Tires and Tubes
+01.08.2023;30.111,25;Australia;Touring Bikes
+01.08.2023;377,4;Australia;Vests
+01.08.2023;1.032,00;Canada;Bike Racks
+01.08.2023;152,64;Canada;Bike Stands
+01.08.2023;1.592,00;Canada;Bottles and Cages
+01.08.2023;366,63;Canada;Caps
+01.08.2023;134,39;Canada;Cleaners
+01.08.2023;1.772,16;Canada;Fenders
+01.08.2023;1.248,00;Canada;Gloves
+01.08.2023;2.147,90;Canada;Helmets
+01.08.2023;871,2;Canada;Hydration Packs
+01.08.2023;1.630,90;Canada;Jerseys
+01.08.2023;20.265,70;Canada;Mountain Bikes
+01.08.2023;7.261,84;Canada;Road Bikes
+01.08.2023;1.505,00;Canada;Shorts
+01.08.2023;156,06;Canada;Socks
+01.08.2023;5.180,90;Canada;Tires and Tubes
+01.08.2023;12.158,19;Canada;Touring Bikes
+01.08.2023;243,84;Canada;Vests
+01.08.2023;225,6;France;Bike Racks
+01.08.2023;273,48;France;Bike Stands
+01.08.2023;591,15;France;Bottles and Cages
+01.08.2023;220,15;France;Caps
+01.08.2023;107,12;France;Cleaners
+01.08.2023;549,12;France;Fenders
+01.08.2023;504,9;France;Gloves
+01.08.2023;1.286,22;France;Helmets
+01.08.2023;228,8;France;Hydration Packs
+01.08.2023;1.183,50;France;Jerseys
+01.08.2023;34.388,20;France;Mountain Bikes
+01.08.2023;23.328,47;France;Road Bikes
+01.08.2023;658;France;Shorts
+01.08.2023;75,6;France;Socks
+01.08.2023;3.293,85;France;Tires and Tubes
+01.08.2023;13.684,50;France;Touring Bikes
+01.08.2023;228,6;France;Vests
+01.08.2023;237,6;Germany;Bike Racks
+01.08.2023;292,56;Germany;Bike Stands
+01.08.2023;488,7;Germany;Bottles and Cages
+01.08.2023;253,65;Germany;Caps
+01.08.2023;64,8;Germany;Cleaners
+01.08.2023;396;Germany;Fenders
+01.08.2023;186,56;Germany;Gloves
+01.08.2023;1.419,50;Germany;Helmets
+01.08.2023;884,12;Germany;Jerseys
+01.08.2023;27.551,72;Germany;Mountain Bikes
+01.08.2023;23.944,34;Germany;Road Bikes
+01.08.2023;2.830,84;Germany;Tires and Tubes
+01.08.2023;26.005,30;Germany;Touring Bikes
+01.08.2023;176,7;Germany;Vests
+01.08.2023;220,8;United Kingdom;Bike Racks
+01.08.2023;333,9;United Kingdom;Bike Stands
+01.08.2023;589,05;United Kingdom;Bottles and Cages
+01.08.2023;493,68;United Kingdom;Caps
+01.08.2023;54,32;United Kingdom;Cleaners
+01.08.2023;231;United Kingdom;Fenders
+01.08.2023;429,12;United Kingdom;Gloves
+01.08.2023;1.764,38;United Kingdom;Helmets
+01.08.2023;46,75;United Kingdom;Hydration Packs
+01.08.2023;818,88;United Kingdom;Jerseys
+01.08.2023;35.272,45;United Kingdom;Mountain Bikes
+01.08.2023;48.318,99;United Kingdom;Road Bikes
+01.08.2023;128,8;United Kingdom;Shorts
+01.08.2023;64,26;United Kingdom;Socks
+01.08.2023;3.440,90;United Kingdom;Tires and Tubes
+01.08.2023;8.709,36;United Kingdom;Touring Bikes
+01.08.2023;114,3;United Kingdom;Vests
+01.08.2023;928,8;United States;Bike Racks
+01.08.2023;1.135,26;United States;Bike Stands
+01.08.2023;2.309,12;United States;Bottles and Cages
+01.08.2023;838,3;United States;Caps
+01.08.2023;404,16;United States;Cleaners
+01.08.2023;2.893,77;United States;Fenders
+01.08.2023;1.407,28;United States;Gloves
+01.08.2023;5.443,90;United States;Helmets
+01.08.2023;1.113,20;United States;Hydration Packs
+01.08.2023;3.666,18;United States;Jerseys
+01.08.2023;112.230,00;United States;Mountain Bikes
+01.08.2023;62.881,08;United States;Road Bikes
+01.08.2023;2.194,50;United States;Shorts
+01.08.2023;376,47;United States;Socks
+01.08.2023;11.198,00;United States;Tires and Tubes
+01.08.2023;39.212,20;United States;Touring Bikes
+01.08.2023;656,12;United States;Vests
+01.09.2023;117,6;Australia;Bike Racks
+01.09.2023;795;Australia;Bike Stands
+01.09.2023;1.779,44;Australia;Bottles and Cages
+01.09.2023;588,8;Australia;Caps
+01.09.2023;251,68;Australia;Cleaners
+01.09.2023;1.280,24;Australia;Fenders
+01.09.2023;1.335,60;Australia;Gloves
+01.09.2023;2.759,12;Australia;Helmets
+01.09.2023;792;Australia;Hydration Packs
+01.09.2023;3.054,48;Australia;Jerseys
+01.09.2023;102.348,84;Australia;Mountain Bikes
+01.09.2023;131.969,79;Australia;Road Bikes
+01.09.2023;669,9;Australia;Shorts
+01.09.2023;207,9;Australia;Socks
+01.09.2023;4.943,60;Australia;Tires and Tubes
+01.09.2023;34.555,50;Australia;Touring Bikes
+01.09.2023;466,2;Australia;Vests
+01.09.2023;950,4;Canada;Bike Racks
+01.09.2023;572,4;Canada;Bike Stands
+01.09.2023;989,1;Canada;Bottles and Cages
+01.09.2023;224,64;Canada;Caps
+01.09.2023;148,72;Canada;Cleaners
+01.09.2023;1.008,78;Canada;Fenders
+01.09.2023;1.013,00;Canada;Gloves
+01.09.2023;2.116,50;Canada;Helmets
+01.09.2023;577,5;Canada;Hydration Packs
+01.09.2023;1.578,19;Canada;Jerseys
+01.09.2023;22.641,00;Canada;Mountain Bikes
+01.09.2023;11.147,40;Canada;Road Bikes
+01.09.2023;772,8;Canada;Shorts
+01.09.2023;188,37;Canada;Socks
+01.09.2023;4.758,81;Canada;Tires and Tubes
+01.09.2023;10.273,83;Canada;Touring Bikes
+01.09.2023;171;Canada;Vests
+01.09.2023;103,2;France;Bike Racks
+01.09.2023;147,87;France;Bike Stands
+01.09.2023;704,72;France;Bottles and Cages
+01.09.2023;270,48;France;Caps
+01.09.2023;14,4;France;Cleaners
+01.09.2023;266,64;France;Fenders
+01.09.2023;512,82;France;Gloves
+01.09.2023;1.335,89;France;Helmets
+01.09.2023;224,4;France;Hydration Packs
+01.09.2023;1.311,19;France;Jerseys
+01.09.2023;43.963,92;France;Mountain Bikes
+01.09.2023;22.063,36;France;Road Bikes
+01.09.2023;475,3;France;Shorts
+01.09.2023;25,38;France;Socks
+01.09.2023;3.268,30;France;Tires and Tubes
+01.09.2023;27.977,04;France;Touring Bikes
+01.09.2023;58,88;France;Vests
+01.09.2023;465,6;Germany;Bike Racks
+01.09.2023;283,02;Germany;Bike Stands
+01.09.2023;649,52;Germany;Bottles and Cages
+01.09.2023;273,36;Germany;Caps
+01.09.2023;47,04;Germany;Cleaners
+01.09.2023;470,58;Germany;Fenders
+01.09.2023;148,05;Germany;Gloves
+01.09.2023;1.350,56;Germany;Helmets
+01.09.2023;53,35;Germany;Hydration Packs
+01.09.2023;1.086,80;Germany;Jerseys
+01.09.2023;35.972,75;Germany;Mountain Bikes
+01.09.2023;29.177,19;Germany;Road Bikes
+01.09.2023;216,3;Germany;Shorts
+01.09.2023;18,9;Germany;Socks
+01.09.2023;2.729,58;Germany;Tires and Tubes
+01.09.2023;21.164,15;Germany;Touring Bikes
+01.09.2023;171;Germany;Vests
+01.09.2023;489,6;United Kingdom;Bike Racks
+01.09.2023;419,76;United Kingdom;Bike Stands
+01.09.2023;546,55;United Kingdom;Bottles and Cages
+01.09.2023;381,22;United Kingdom;Caps
+01.09.2023;76,8;United Kingdom;Cleaners
+01.09.2023;121,44;United Kingdom;Fenders
+01.09.2023;363,59;United Kingdom;Gloves
+01.09.2023;1.851,04;United Kingdom;Helmets
+01.09.2023;161,7;United Kingdom;Hydration Packs
+01.09.2023;1.022,12;United Kingdom;Jerseys
+01.09.2023;40.985,56;United Kingdom;Mountain Bikes
+01.09.2023;32.335,14;United Kingdom;Road Bikes
+01.09.2023;431,2;United Kingdom;Shorts
+01.09.2023;76,95;United Kingdom;Socks
+01.09.2023;3.873,20;United Kingdom;Tires and Tubes
+01.09.2023;30.468,42;United Kingdom;Touring Bikes
+01.09.2023;228,6;United Kingdom;Vests
+01.09.2023;1.890,00;United States;Bike Racks
+01.09.2023;655,08;United States;Bike Stands
+01.09.2023;2.557,80;United States;Bottles and Cages
+01.09.2023;668,95;United States;Caps
+01.09.2023;450,9;United States;Cleaners
+01.09.2023;2.797,27;United States;Fenders
+01.09.2023;1.483,32;United States;Gloves
+01.09.2023;5.235,49;United States;Helmets
+01.09.2023;1.372,80;United States;Hydration Packs
+01.09.2023;3.592,95;United States;Jerseys
+01.09.2023;113.752,08;United States;Mountain Bikes
+01.09.2023;74.104,47;United States;Road Bikes
+01.09.2023;3.202,32;United States;Shorts
+01.09.2023;253,17;United States;Socks
+01.09.2023;8.857,03;United States;Tires and Tubes
+01.09.2023;38.976,66;United States;Touring Bikes
+01.09.2023;754,38;United States;Vests
+01.10.2023;412,8;Australia;Bike Racks
+01.10.2023;834,75;Australia;Bike Stands
+01.10.2023;1.705,77;Australia;Bottles and Cages
+01.10.2023;469,03;Australia;Caps
+01.10.2023;279,84;Australia;Cleaners
+01.10.2023;1.096,50;Australia;Fenders
+01.10.2023;1.522,07;Australia;Gloves
+01.10.2023;3.508,80;Australia;Helmets
+01.10.2023;1.024,10;Australia;Hydration Packs
+01.10.2023;2.739,33;Australia;Jerseys
+01.10.2023;107.996,53;Australia;Mountain Bikes
+01.10.2023;103.859,80;Australia;Road Bikes
+01.10.2023;716,1;Australia;Shorts
+01.10.2023;221,13;Australia;Socks
+01.10.2023;6.435,18;Australia;Tires and Tubes
+01.10.2023;67.521,25;Australia;Touring Bikes
+01.10.2023;589,16;Australia;Vests
+01.10.2023;143,1;Canada;Bike Stands
+01.10.2023;797,22;Canada;Bottles and Cages
+01.10.2023;137,28;Canada;Caps
+01.10.2023;135,85;Canada;Cleaners
+01.10.2023;859,95;Canada;Fenders
+01.10.2023;578,76;Canada;Gloves
+01.10.2023;2.063,09;Canada;Helmets
+01.10.2023;495;Canada;Hydration Packs
+01.10.2023;1.155,44;Canada;Jerseys
+01.10.2023;13.910,94;Canada;Mountain Bikes
+01.10.2023;11.745,00;Canada;Road Bikes
+01.10.2023;1.524,60;Canada;Shorts
+01.10.2023;88,11;Canada;Socks
+01.10.2023;3.740,46;Canada;Tires and Tubes
+01.10.2023;8.856,66;Canada;Touring Bikes
+01.10.2023;109,22;Canada;Vests
+01.10.2023;244,8;France;Bike Racks
+01.10.2023;298,92;France;Bike Stands
+01.10.2023;461,97;France;Bottles and Cages
+01.10.2023;213,84;France;Caps
+01.10.2023;29,76;France;Cleaners
+01.10.2023;240,24;France;Fenders
+01.10.2023;220,15;France;Gloves
+01.10.2023;1.102,45;France;Helmets
+01.10.2023;431,2;France;Hydration Packs
+01.10.2023;673,62;France;Jerseys
+01.10.2023;17.926,09;France;Mountain Bikes
+01.10.2023;29.127,12;France;Road Bikes
+01.10.2023;343;France;Shorts
+01.10.2023;63,63;France;Socks
+01.10.2023;2.734,20;France;Tires and Tubes
+01.10.2023;15.849,10;France;Touring Bikes
+01.10.2023;241,3;France;Vests
+01.10.2023;124,8;Germany;Bike Racks
+01.10.2023;496,08;Germany;Bike Stands
+01.10.2023;978,24;Germany;Bottles and Cages
+01.10.2023;413,92;Germany;Caps
+01.10.2023;71,2;Germany;Cleaners
+01.10.2023;571;Germany;Fenders
+01.10.2023;482,38;Germany;Gloves
+01.10.2023;1.171,32;Germany;Helmets
+01.10.2023;228,8;Germany;Hydration Packs
+01.10.2023;1.135,53;Germany;Jerseys
+01.10.2023;36.730,67;Germany;Mountain Bikes
+01.10.2023;34.239,24;Germany;Road Bikes
+01.10.2023;72,9;Germany;Socks
+01.10.2023;3.210,57;Germany;Tires and Tubes
+01.10.2023;29.013,21;Germany;Touring Bikes
+01.10.2023;125,73;Germany;Vests
+01.10.2023;412,8;United Kingdom;Bike Racks
+01.10.2023;578,76;United Kingdom;Bike Stands
+01.10.2023;899,3;United Kingdom;Bottles and Cages
+01.10.2023;517,75;United Kingdom;Caps
+01.10.2023;95,46;United Kingdom;Cleaners
+01.10.2023;908,98;United Kingdom;Fenders
+01.10.2023;766,5;United Kingdom;Gloves
+01.10.2023;1.806,30;United Kingdom;Helmets
+01.10.2023;215,6;United Kingdom;Hydration Packs
+01.10.2023;1.723,59;United Kingdom;Jerseys
+01.10.2023;53.389,70;United Kingdom;Mountain Bikes
+01.10.2023;33.375,86;United Kingdom;Road Bikes
+01.10.2023;243,6;United Kingdom;Shorts
+01.10.2023;46,44;United Kingdom;Socks
+01.10.2023;3.475,45;United Kingdom;Tires and Tubes
+01.10.2023;41.364,00;United Kingdom;Touring Bikes
+01.10.2023;226,06;United Kingdom;Vests
+01.10.2023;1.015,20;United States;Bike Racks
+01.10.2023;1.793,52;United States;Bike Stands
+01.10.2023;2.979,20;United States;Bottles and Cages
+01.10.2023;793,8;United States;Caps
+01.10.2023;412,58;United States;Cleaners
+01.10.2023;2.690,25;United States;Fenders
+01.10.2023;1.392,92;United States;Gloves
+01.10.2023;5.488,08;United States;Helmets
+01.10.2023;888,8;United States;Hydration Packs
+01.10.2023;4.718,70;United States;Jerseys
+01.10.2023;135.000,60;United States;Mountain Bikes
+01.10.2023;85.928,78;United States;Road Bikes
+01.10.2023;2.927,40;United States;Shorts
+01.10.2023;379,26;United States;Socks
+01.10.2023;11.016,96;United States;Tires and Tubes
+01.10.2023;67.261,75;United States;Touring Bikes
+01.10.2023;1.133,90;United States;Vests
+01.11.2023;338,4;Australia;Bike Racks
+01.11.2023;1.023,96;Australia;Bike Stands
+01.11.2023;1.648,00;Australia;Bottles and Cages
+01.11.2023;488,84;Australia;Caps
+01.11.2023;196,65;Australia;Cleaners
+01.11.2023;919,37;Australia;Fenders
+01.11.2023;871;Australia;Gloves
+01.11.2023;2.956,30;Australia;Helmets
+01.11.2023;1.315,60;Australia;Hydration Packs
+01.11.2023;2.853,48;Australia;Jerseys
+01.11.2023;97.991,52;Australia;Mountain Bikes
+01.11.2023;116.462,97;Australia;Road Bikes
+01.11.2023;1.102,50;Australia;Shorts
+01.11.2023;136,35;Australia;Socks
+01.11.2023;5.909,40;Australia;Tires and Tubes
+01.11.2023;58.667,44;Australia;Touring Bikes
+01.11.2023;396,24;Australia;Vests
+01.11.2023;446,4;Canada;Bike Racks
+01.11.2023;273,48;Canada;Bike Stands
+01.11.2023;1.085,80;Canada;Bottles and Cages
+01.11.2023;328,7;Canada;Caps
+01.11.2023;215,28;Canada;Cleaners
+01.11.2023;1.549,72;Canada;Fenders
+01.11.2023;942,76;Canada;Gloves
+01.11.2023;2.409,68;Canada;Helmets
+01.11.2023;168,3;Canada;Hydration Packs
+01.11.2023;1.165,22;Canada;Jerseys
+01.11.2023;38.881,50;Canada;Mountain Bikes
+01.11.2023;18.256,94;Canada;Road Bikes
+01.11.2023;1.159,20;Canada;Shorts
+01.11.2023;150,48;Canada;Socks
+01.11.2023;4.843,30;Canada;Tires and Tubes
+01.11.2023;13.639,38;Canada;Touring Bikes
+01.11.2023;660,4;Canada;Vests
+01.11.2023;104,4;France;Bike Racks
+01.11.2023;139,92;France;Bike Stands
+01.11.2023;698,4;France;Bottles and Cages
+01.11.2023;215,86;France;Caps
+01.11.2023;22,56;France;Cleaners
+01.11.2023;200,2;France;Fenders
+01.11.2023;489,84;France;Gloves
+01.11.2023;1.288,80;France;Helmets
+01.11.2023;165;France;Hydration Packs
+01.11.2023;832,35;France;Jerseys
+01.11.2023;40.021,28;France;Mountain Bikes
+01.11.2023;23.336,28;France;Road Bikes
+01.11.2023;382,2;France;Shorts
+01.11.2023;16,92;France;Socks
+01.11.2023;2.983,50;France;Tires and Tubes
+01.11.2023;27.958,84;France;Touring Bikes
+01.11.2023;305,28;France;Vests
+01.11.2023;139,92;Germany;Bike Stands
+01.11.2023;616,62;Germany;Bottles and Cages
+01.11.2023;275,2;Germany;Caps
+01.11.2023;45,12;Germany;Cleaners
+01.11.2023;302,72;Germany;Fenders
+01.11.2023;306;Germany;Gloves
+01.11.2023;1.277,16;Germany;Helmets
+01.11.2023;215,6;Germany;Hydration Packs
+01.11.2023;766,02;Germany;Jerseys
+01.11.2023;20.182,08;Germany;Mountain Bikes
+01.11.2023;31.942,24;Germany;Road Bikes
+01.11.2023;40,95;Germany;Socks
+01.11.2023;2.112,96;Germany;Tires and Tubes
+01.11.2023;26.556,55;Germany;Touring Bikes
+01.11.2023;62,08;Germany;Vests
+01.11.2023;247,2;United Kingdom;Bike Racks
+01.11.2023;448,38;United Kingdom;Bike Stands
+01.11.2023;762,73;United Kingdom;Bottles and Cages
+01.11.2023;349,46;United Kingdom;Caps
+01.11.2023;74,82;United Kingdom;Cleaners
+01.11.2023;380,38;United Kingdom;Fenders
+01.11.2023;440,3;United Kingdom;Gloves
+01.11.2023;1.934,14;United Kingdom;Helmets
+01.11.2023;231;United Kingdom;Hydration Packs
+01.11.2023;1.213,46;United Kingdom;Jerseys
+01.11.2023;51.079,68;United Kingdom;Mountain Bikes
+01.11.2023;49.279,36;United Kingdom;Road Bikes
+01.11.2023;336;United Kingdom;Shorts
+01.11.2023;133,65;United Kingdom;Socks
+01.11.2023;2.776,10;United Kingdom;Tires and Tubes
+01.11.2023;37.277,76;United Kingdom;Touring Bikes
+01.11.2023;65,28;United Kingdom;Vests
+01.11.2023;1.466,40;United States;Bike Racks
+01.11.2023;1.246,56;United States;Bike Stands
+01.11.2023;2.648,68;United States;Bottles and Cages
+01.11.2023;738,9;United States;Caps
+01.11.2023;497,93;United States;Cleaners
+01.11.2023;3.026,34;United States;Fenders
+01.11.2023;1.584,99;United States;Gloves
+01.11.2023;5.362,20;United States;Helmets
+01.11.2023;701,25;United States;Hydration Packs
+01.11.2023;4.651,05;United States;Jerseys
+01.11.2023;121.880,04;United States;Mountain Bikes
+01.11.2023;104.671,82;United States;Road Bikes
+01.11.2023;1.986,60;United States;Shorts
+01.11.2023;277,2;United States;Socks
+01.11.2023;10.599,01;United States;Tires and Tubes
+01.11.2023;80.198,55;United States;Touring Bikes
+01.11.2023;1.489,20;United States;Vests
+01.12.2023;374,4;Australia;Bike Racks
+01.12.2023;1.310,16;Australia;Bike Stands
+01.12.2023;1.404,30;Australia;Bottles and Cages
+01.12.2023;557,28;Australia;Caps
+01.12.2023;269,7;Australia;Cleaners
+01.12.2023;1.001,90;Australia;Fenders
+01.12.2023;992,74;Australia;Gloves
+01.12.2023;3.883,00;Australia;Helmets
+01.12.2023;465,3;Australia;Hydration Packs
+01.12.2023;2.776,08;Australia;Jerseys
+01.12.2023;19.000,80;Australia;Mountain Bikes
+01.12.2023;176.581,86;Australia;Road Bikes
+01.12.2023;1.396,50;Australia;Shorts
+01.12.2023;255,15;Australia;Socks
+01.12.2023;6.018,00;Australia;Tires and Tubes
+01.12.2023;122.478,75;Australia;Touring Bikes
+01.12.2023;384,81;Australia;Vests
+01.12.2023;338,4;Canada;Bike Racks
+01.12.2023;289,38;Canada;Bike Stands
+01.12.2023;1.589,70;Canada;Bottles and Cages
+01.12.2023;349,46;Canada;Caps
+01.12.2023;171,5;Canada;Cleaners
+01.12.2023;1.568,64;Canada;Fenders
+01.12.2023;1.077,44;Canada;Gloves
+01.12.2023;2.227,28;Canada;Helmets
+01.12.2023;489,5;Canada;Hydration Packs
+01.12.2023;1.405,05;Canada;Jerseys
+01.12.2023;42.030,24;Canada;Mountain Bikes
+01.12.2023;33.099,05;Canada;Road Bikes
+01.12.2023;1.106,70;Canada;Shorts
+01.12.2023;86,4;Canada;Socks
+01.12.2023;5.557,00;Canada;Tires and Tubes
+01.12.2023;25.925,34;Canada;Touring Bikes
+01.12.2023;533,4;Canada;Vests
+01.12.2023;480;France;Bike Racks
+01.12.2023;318;France;Bike Stands
+01.12.2023;1.019,92;France;Bottles and Cages
+01.12.2023;469,2;France;Caps
+01.12.2023;70,4;France;Cleaners
+01.12.2023;355,52;France;Fenders
+01.12.2023;230,3;France;Gloves
+01.12.2023;2.172,36;France;Helmets
+01.12.2023;303,6;France;Hydration Packs
+01.12.2023;1.741,89;France;Jerseys
+01.12.2023;78.229,65;France;Mountain Bikes
+01.12.2023;45.783,00;France;Road Bikes
+01.12.2023;336;France;Shorts
+01.12.2023;17,82;France;Socks
+01.12.2023;4.376,82;France;Tires and Tubes
+01.12.2023;45.500,25;France;Touring Bikes
+01.12.2023;339,09;France;Vests
+01.12.2023;109,2;Germany;Bike Racks
+01.12.2023;136,74;Germany;Bike Stands
+01.12.2023;925,52;Germany;Bottles and Cages
+01.12.2023;350,24;Germany;Caps
+01.12.2023;153,64;Germany;Cleaners
+01.12.2023;845,52;Germany;Fenders
+01.12.2023;419,19;Germany;Gloves
+01.12.2023;2.311,35;Germany;Helmets
+01.12.2023;209;Germany;Hydration Packs
+01.12.2023;1.459,51;Germany;Jerseys
+01.12.2023;59.538,45;Germany;Mountain Bikes
+01.12.2023;45.273,22;Germany;Road Bikes
+01.12.2023;40,5;Germany;Socks
+01.12.2023;3.620,40;Germany;Tires and Tubes
+01.12.2023;36.481,28;Germany;Touring Bikes
+01.12.2023;130,81;Germany;Vests
+01.12.2023;123,6;United Kingdom;Bike Racks
+01.12.2023;314,82;United Kingdom;Bike Stands
+01.12.2023;1.500,54;United Kingdom;Bottles and Cages
+01.12.2023;617,4;United Kingdom;Caps
+01.12.2023;135;United Kingdom;Cleaners
+01.12.2023;732,06;United Kingdom;Fenders
+01.12.2023;392,08;United Kingdom;Gloves
+01.12.2023;2.413,35;United Kingdom;Helmets
+01.12.2023;334,95;United Kingdom;Hydration Packs
+01.12.2023;2.274,52;United Kingdom;Jerseys
+01.12.2023;75.928,75;United Kingdom;Mountain Bikes
+01.12.2023;69.805,16;United Kingdom;Road Bikes
+01.12.2023;322;United Kingdom;Shorts
+01.12.2023;101,52;United Kingdom;Socks
+01.12.2023;3.904,73;United Kingdom;Tires and Tubes
+01.12.2023;47.469,61;United Kingdom;Touring Bikes
+01.12.2023;174,8;United Kingdom;Vests
+01.12.2023;1.646,40;United States;Bike Racks
+01.12.2023;1.521,63;United States;Bike Stands
+01.12.2023;3.654,56;United States;Bottles and Cages
+01.12.2023;1.173,00;United States;Caps
+01.12.2023;522,34;United States;Cleaners
+01.12.2023;3.945,60;United States;Fenders
+01.12.2023;2.718,56;United States;Gloves
+01.12.2023;6.883,12;United States;Helmets
+01.12.2023;1.237,50;United States;Hydration Packs
+01.12.2023;5.104,00;United States;Jerseys
+01.12.2023;274.357,56;United States;Mountain Bikes
+01.12.2023;130.475,25;United States;Road Bikes
+01.12.2023;2.709,00;United States;Shorts
+01.12.2023;364,5;United States;Socks
+01.12.2023;14.062,88;United States;Tires and Tubes
+01.12.2023;135.861,84;United States;Touring Bikes
+01.12.2023;885,36;United States;Vests
